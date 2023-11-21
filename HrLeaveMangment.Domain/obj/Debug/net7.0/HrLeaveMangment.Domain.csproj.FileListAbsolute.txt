@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\bin\Debug\net7.0\HrLeaveMangment.Domain.deps.json
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\bin\Debug\net7.0\HrLeaveMangment.Domain.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\bin\Debug\net7.0\HrLeaveMangment.Domain.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\HrLeaveMangment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\HrLeaveMangment.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\HrLeaveMangment.Domain.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\HrLeaveMangment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\HrLeaveMangment.Domain.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\refint\HrLeaveMangment.Domain.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\HrLeaveMangment.Domain.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HrLeaveMangment.Domain\obj\Debug\net7.0\ref\HrLeaveMangment.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\bin\Debug\net7.0\HRLeaveMangment.Application.deps.json
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\bin\Debug\net7.0\HRLeaveMangment.Application.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\bin\Debug\net7.0\HRLeaveMangment.Application.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\bin\Debug\net7.0\HrLeaveMangment.Domain.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\bin\Debug\net7.0\HrLeaveMangment.Domain.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\refint\HRLeaveMangment.Application.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\HRLeaveMangment.Application.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Application\obj\Debug\net7.0\ref\HRLeaveMangment.Application.dll

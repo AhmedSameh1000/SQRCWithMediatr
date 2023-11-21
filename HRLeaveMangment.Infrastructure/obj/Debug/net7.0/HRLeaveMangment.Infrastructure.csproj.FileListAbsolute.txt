@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HRLeaveMangment.Infrastructure.deps.json
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HRLeaveMangment.Infrastructure.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HRLeaveMangment.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\refint\HRLeaveMangment.Infrastructure.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\ref\HRLeaveMangment.Infrastructure.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HRLeaveMangment.Application.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HrLeaveMangment.Domain.dll
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HRLeaveMangment.Application.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\bin\Debug\net7.0\HrLeaveMangment.Domain.pdb
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Clean\HrLeaveMangment\HRLeaveMangment.Infrastructure\obj\Debug\net7.0\HRLeaveMangment.Infrastructure.csproj.CopyComplete
